@@ -35,7 +35,7 @@
   },
   "copyright": "2018 Adam Shaw",
   "dependencies": {
-    "fullcalendar": "git+https://github.com/zhoujinzhong/vue-fullcalendar.git",
+    "fullcalendar": "https://github.com/zhoujinzhong/vue-fullcalendar.git",
     "jquery": "2 - 3",
     "moment": "^2.20.1"
   },
