@@ -106,7 +106,7 @@
   "releaseDate": "2018-03-04",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fullcalendar/fullcalendar-scheduler.git"
+    "url": "git+https://github.com/zhoujinzhong/vue-fullcalendar.git"
   },
   "scripts": {
     "clean": "gulp clean",
