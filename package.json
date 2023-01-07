@@ -86,8 +86,8 @@
     "tslint": "^5.9.1",
     "tslint-config-standard": "^7.0.0",
     "typescript": "^2.7.2",
-    "webpack": "^3.11.0",
-    "webpack-stream": "^4.0.2",
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0",
     "yargs": "^4.6.0"
   },
   "files": [
